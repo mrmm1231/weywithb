@@ -1,0 +1,24 @@
+{
+  "name": "weywithb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmm1231/weywithb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrmm1231/weywithb/issues"
+  },
+  "homepage": "https://github.com/mrmm1231/weywithb#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
