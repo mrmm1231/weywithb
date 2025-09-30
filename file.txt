@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Another line from feature branch
 
+=======
+Hello World
+>>>>>>> df1ebd5 (Initial commit)
