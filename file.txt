@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Another line from feature branch
+=======
+Hello from main branch
+>>>>>>> 49ede9f (rebase)
 
